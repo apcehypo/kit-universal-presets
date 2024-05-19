@@ -1,0 +1,11 @@
+[Configuration]
+Name=For screen width: 1280
+Name.1049=Для ширины экрана: 1280
+Author=ApceH Hypocrite
+Created=2012-04-15
+Description=Thumbnails size:\t120x88
+Description.1049=Размер эскизов:\t120x88
+
+[im|%COMMANDER_INI%|Configuration]
+ThumbWidthNoCache=120
+ThumbHeightNoCache=88

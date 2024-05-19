@@ -1,0 +1,8 @@
+;[Configuration]
+;DefaultDirectory=E:\kITUPTester\bin\Debug
+
+[im|Target.ini|Section]
+Name=NewValue!
+
+[im|Target.ini|Section2]
+Name2=NewValue!

@@ -1,0 +1,14 @@
+[iN|Target.ini|Section|NewSection]
+
+[iN|Target.ini|Section2|NewSection2]
+Name1
+
+[iN|Target.ini|Section3|NewSection3]
+Name2=Value2
+
+[iN|Target.ini|Section4|NewSection4]
+Name1=Value2
+
+[iN|Target.ini|Section5|NewSection5]
+Name1=Value1
+Name2=Value3

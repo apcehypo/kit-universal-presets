@@ -1,0 +1,7 @@
+[in|Target.ini|Section]
+Name1=NewName1
+Name2=NewName2
+NewName2=NewName4
+Name100500=NewName100500
+
+[in|Target.ini|Section2]

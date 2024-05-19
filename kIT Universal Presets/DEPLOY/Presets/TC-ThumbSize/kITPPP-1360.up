@@ -1,0 +1,11 @@
+[Configuration]
+Name=For screen width: 1360, 1440
+Name.1049=Для ширины экрана: 1360, 1440
+Author=ApceH Hypocrite
+Created=2012-04-15
+Description=Thumbnails size:\t136x104
+Description.1049=Размер эскизов:\t136x104
+
+[im|%COMMANDER_INI%|Configuration]
+ThumbWidthNoCache=136
+ThumbHeightNoCache=104

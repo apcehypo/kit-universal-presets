@@ -1,0 +1,1 @@
+TProgressForm = class; PProgressForm = TProgressForm;

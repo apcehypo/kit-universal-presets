@@ -1,0 +1,1 @@
+TDialogMessageTemplateForm = class; PDialogMessageTemplateForm = TDialogMessageTemplateForm;

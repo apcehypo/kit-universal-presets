@@ -1,0 +1,9 @@
+[iD|Target.ini|Section]
+
+[iD|Target.ini|Section2]
+Name2=Value2
+Name4=Value4
+
+[iD|Target.ini|Section3]
+Name2=Value2
+Name4=Value5

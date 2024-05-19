@@ -1,0 +1,18 @@
+Создаются ключи:
+
+[rm|HKEY_CURRENT_USER\Software\kITUPTester\6.5.6\Test1]
+"Item"=dword:00000001
+"Item2"="SomeString"
+@="DefaultValueTest1"
+
+[rm|HKEY_CURRENT_USER\Software\kITUPTester\6.5.6_Test4_Existed]
+@="DefaultValue"
+"test_dword"=dword:00000005
+
+Удаляется HKEY_CURRENT_USER\Software\kITUPTester\6.5.6\Test1:
+
+[rD|HKEY_CURRENT_USER\Software\kITUPTester\6.5.6\Test1]
+HKEY_CURRENT_USER\Software\kITUPTester\6.5.6_Test4_Existed\
+HKEY_CURRENT_USER\Software\kITUPTester\6.5.6\Test1\Item
+
+Удалиться ДОЛЖЕН, но НЕ УДАЛЯЕТСЯ

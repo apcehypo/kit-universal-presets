@@ -1,0 +1,12 @@
+[Configuration]
+Name=kIT PPP: Tiny
+Name.1049=kIT PPP: Крошечные
+Author=ApceH Hypocrite
+Created=2011-04-09
+Modified=2012-06-19
+
+[Im||Buttonbar]
+Buttonheight=19
+SmallIconSize=16
+PopupIconSize=16
+

@@ -1,0 +1,6 @@
+﻿[rm|HKEY_CURRENT_USER\Software\kITUPTester\6.5.8\Test1]
+"Item"=dword:00000001
+"Item2"=dword:00000002
+
+[rD|HKEY_CURRENT_USER\Software\kITUPTester\6.5.8\Test1|NewTest1]
+Item

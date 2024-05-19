@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\kITUPTester\6.5.8\NewTest1]
+"Item"=dword:00000001
+"Item2"=dword:00000002

@@ -1,0 +1,14 @@
+[iC1|Target.ini|Section]
+Name1
+
+[iC+|Target.ini|Section2]
+Name1
+Name2=Value2
+
+[iC-|Target.ini|Section3]
+Name1
+Name2=Value2
+
+[iC-|Target.ini|Section4]
+Name1=Test
+Name2=Value2

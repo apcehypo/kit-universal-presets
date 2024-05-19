@@ -1,0 +1,11 @@
+В пресете создается ключ:
+
+[rm|HKEY_CURRENT_USER\Software\kITUPTester\6.5.6_Test4_Existed]
+"test_dword"=dword:00000005
+
+Попытка удалить с условием:
+
+[rD|HKEY_CURRENT_USER\Software\kITUPTester\6.5.6_Test4_Existed]
+"test_dword"=dword:00011115
+
+Удалиться НЕ ДОЛЖНО из-за условия, но УДАЛЯЕТСЯ.

@@ -1,0 +1,5 @@
+[id|Target.ini|Section]
+Name
+Name1
+Name2=Test2
+Name3=Value3

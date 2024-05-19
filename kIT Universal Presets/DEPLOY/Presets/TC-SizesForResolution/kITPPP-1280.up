@@ -1,0 +1,36 @@
+[Configuration]
+Name=kIT PPP: 1280
+Author=ApceH Hypocrite
+Created=2012-04-10
+Description=Size of buttons:\t32, 24\nSize of icons:\t24\nSize of fonts:\t10, 10, 9\nSize of icons in main menu:\t16
+Description.1049=Размер кнопок панелей:\t32, 24\nРазмер иконок файлов:\t24\nРазмеры шрифтов:\t10, 10, 9\nРазмер иконок в меню:\t16
+
+[Im||Buttonbar]
+Buttonheight=37
+SmallIconSize=32
+PopupIconSize=24
+
+[Im||AllResolutions]
+FontSize=10
+FontWeight=700
+FontName=Tahoma
+FontCharset=204
+FontSizeWindow=10
+FontWeightWindow=700
+FontNameWindow=Tahoma
+FontCharsetWindow=204
+FontSizeDialog=9
+FontNameDialog=Tahoma
+FontCharsetDialog=204
+Iconsize32=24
+dx=1080
+dy=720
+
+[Id||AllResolutions]
+x
+y
+
+[Im||Configuration]
+IconsInMenus=17
+ThumbWidthNoCache=120
+ThumbHeightNoCache=88

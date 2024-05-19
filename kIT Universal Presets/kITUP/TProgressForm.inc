@@ -1,0 +1,1 @@
+TProgressForm = class(TObj)

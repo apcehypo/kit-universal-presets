@@ -1,0 +1,36 @@
+[Configuration]
+Name=kIT PPP: 1920
+Author=ApceH Hypocrite
+Created=2012-04-10
+Description=Size of buttons:\t48, 32\nSize of icons:\t32\nSize of fonts:\t12, 11, 10\nSize of icons in main menu:\t32\n  Depending on your theme main menu can not fit on one line!
+Description.1049=Размер кнопок панелей:\t48, 32\nРазмер иконок файлов:\t32\nРазмеры шрифтов:\t12, 11, 10\nРазмер иконок в меню:\t32
+
+[Im||Buttonbar]
+Buttonheight=60
+SmallIconSize=48
+PopupIconSize=32
+
+[Im||AllResolutions]
+FontSize=12
+FontWeight=700
+FontName=Tahoma
+FontCharset=204
+FontSizeWindow=11
+FontWeightWindow=700
+FontNameWindow=Tahoma
+FontCharsetWindow=204
+FontSizeDialog=10
+FontNameDialog=Tahoma
+FontCharsetDialog=204
+Iconsize32=32
+dx=1740
+dy=960
+
+[Id||AllResolutions]
+x
+y
+
+[Im||Configuration]
+IconsInMenus=25
+ThumbWidthNoCache=200
+ThumbHeightNoCache=152

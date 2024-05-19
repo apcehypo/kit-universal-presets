@@ -1,0 +1,11 @@
+[Configuration]
+Name=For screen width: 1920
+Name.1049=Для ширины экрана: 1920
+Author=ApceH Hypocrite
+Created=2012-04-15
+Description=Thumbnails size:\t200x152
+Description.1049=Размер эскизов:\t200x152
+
+[im|%COMMANDER_INI%|Configuration]
+ThumbWidthNoCache=200
+ThumbHeightNoCache=152

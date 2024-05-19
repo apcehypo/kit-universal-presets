@@ -1,0 +1,12 @@
+[Configuration]
+Name=kIT PPP: Large
+Name.1049=kIT PPP: Большие
+Author=ApceH Hypocrite
+Created=2011-04-09
+Modified=2012-06-19
+
+[Im||Buttonbar]
+Buttonheight=53
+SmallIconSize=48
+PopupIconSize=32
+

@@ -1,0 +1,26 @@
+[Configuration]
+Name=kIT PPP: Medium
+Name.1049=kIT PPP: —редне
+Description=Icons: 24x24.\nFont (Tahoma):\n\tfiles Ч\t\t10, bold;\n\tmain menu Ч\t10, bold;\n\tdialogs Ч\t9, normal.
+Description.1049=«начки: 24x24.\nЎрифт (Tahoma):\n\tфайлы Ч\t\t10, полужирный;\n\tглавное окно Ч\t10, полужирный;\n\tдиалоги Ч\t9, нормальный.
+Author=ApceH Hypocrite
+Created=2011-08-30
+Modified=2011-09-04
+
+[Im||AllResolutions]
+FontSize=10
+FontWeight=700
+FontName=Tahoma
+FontCharset=204
+
+FontSizeWindow=10
+FontWeightWindow=700
+FontNameWindow=Tahoma
+FontCharsetWindow=204
+
+FontSizeDialog=9
+FontNameDialog=Tahoma
+FontCharsetDialog=204
+
+Iconsize32=24
+

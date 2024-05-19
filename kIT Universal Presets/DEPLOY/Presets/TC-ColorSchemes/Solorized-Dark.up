@@ -1,0 +1,99 @@
+[Configuration]
+Name=Solarized Dark
+Name.1049=Solarized Ò¸ìíàÿ
+Description=Based on SOLARIZED (http://ethanschoonover.com/solarized)
+Description.1049=Îñíîâàíî íà SOLARIZED (http://ethanschoonover.com/solarized)
+Author=ApceH Hypocrite
+Created=2013-04-11
+Modified=2013-04-11
+
+;[[Color template]]
+SOLARIZED HEX     TC     
+--------- ------- -------
+base03    #002b36 $362b00
+base02    #073642 $423607
+base01    #586e75 $756e58
+base00    #657b83 $837b65
+base0     #839496 $969483
+base1     #93a1a1 $a1a193
+base2     #eee8d5 $d5e8ee
+base3     #fdf6e3 $e3f6fd
+yellow    #b58900 $0089b5
+orange    #cb4b16 $164bcb
+red       #dc322f $2f32dc
+magenta   #d33682 $8236d3
+violet    #6c71c4 $c4716c
+blue      #268bd2 $d28b26
+cyan      #2aa198 $98a12a
+green     #859900 $009985
+
+[im||Colors]
+ActiveTitle=$a1a193
+ActiveTitleText=$362b00
+BackColor=$362b00
+BackColor2=$423607
+CursorColor=$a1a193
+CursorText=$362b00
+ForeColor=$FFFFFF
+InactiveTitle=$756e58
+InactiveTitleText=$423607
+InverseCursor=1
+InverseSelection=0
+MarkColor=$e3f6fd
+ThumbnailFrame=$423607
+TreeLineColor=$a1a193
+;!!! Ïîäðàçóìåâàåòñÿ, ÷òî ColorFilter1 óæå åñòü â wincmd.ini|Colors è ñëóæèò äëÿ àâòîðàíà
+ColorFilter2=>©CompressedFolder
+ColorFilter2Color=$a1a193
+ColorFilter3=>©Folder
+ColorFilter3Color=$a1a193
+ColorFilter4=>©Executable
+ColorFilter4Color=$009985
+ColorFilter5=>©Script
+ColorFilter5Color=$009985
+ColorFilter6=>©Document
+ColorFilter6Color=$d28b26
+ColorFilter7=>©SourceCode
+ColorFilter7Color=$d28b26
+ColorFilter8=>©InternetFile
+ColorFilter8Color=$d28b26
+ColorFilter9=>©Picture
+ColorFilter9Color=$8236d3
+ColorFilter10=>©Audio
+ColorFilter10Color=$c4716c
+ColorFilter11=>©Video
+ColorFilter11Color=$c4716c
+ColorFilter12=>©Archive
+ColorFilter12Color=$0089b5
+ColorFilter13=>©SystemFile
+ColorFilter13Color=$98a12a
+ColorFilter14=>©ServiceFile
+ColorFilter14Color=$98a12a
+ColorFilter15=>©Temporary
+ColorFilter15Color=$164bcb
+ColorFilter16=>©PictureSource
+ColorFilter16Color=$8236d3
+ColorFilter17=>©Other
+ColorFilter17Color=$98a12a
+
+[im||Configuration]
+InactiveFocus=$3a1a193
+SelectionFocus=$0362b00
+ColorFilters=1
+
+[Im||Lister]
+FgColor=$a1a193
+BgColor=$362b00
+FgSelColor=$362b00
+BgSelColor=$969483
+LinkColor=$d28b26
+
+[#include|.kITPPP.includes.up]
+
+[im|ADDONS\TWinKey\TWinKey.ini|Colors&Styles]
+RetrColor=#dc322f
+LostFocusColor=#cb4b16
+
+[im|ADDONS\TWinKey\TWinKey.Backup.ini|Colors&Styles]
+RetrColor=#dc322f
+LostFocusColor=#cb4b16

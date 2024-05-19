@@ -1,0 +1,14 @@
+[ic1|Target.ini]
+Section]Name1
+Section]Name2=Value2
+Section]Name3=Value2
+
+[ic+|Target.ini]
+Section2]Name1
+Section2]Name2=Value2
+Section2]Name3=Value2
+
+[ic-|Target.ini]
+Section3]Name1
+Section3]Name2=Value2
+Section3]Name3=Value2

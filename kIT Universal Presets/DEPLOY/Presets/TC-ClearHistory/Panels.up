@@ -1,0 +1,18 @@
+[Configuration]
+Name=Input fields and visited folders
+Name.1049=Поля ввода и посещённые папки
+Description=Command line history, SearchName, SearchIn, SearchText, RenameTemplates, RenameSearchFind, RenameSearchReplace, Selection, MkDirHistory, LeftHistory, RightHistory.
+Created=2011-09-09
+Modified=2012-06-19
+
+[ID||Command line history]
+[ID||SearchName]
+[ID||SearchIn]
+[ID||SearchText]
+[ID||RenameTemplates]
+[ID||RenameSearchFind]
+[ID||RenameSearchReplace]
+[ID||Selection]
+[ID||MkDirHistory]
+[ID||LeftHistory]
+[ID||RightHistory]

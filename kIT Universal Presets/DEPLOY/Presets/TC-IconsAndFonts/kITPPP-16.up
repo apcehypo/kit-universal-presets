@@ -1,0 +1,26 @@
+[Configuration]
+Name=kIT PPP: Small
+Name.1049=kIT PPP: ћелко
+Description=Icons: 16x16.\nFont (Tahoma):\n\tfiles Ч\t\t8, bold;\n\tmain menu Ч\t9, bold;\n\tdialogs Ч\t8, normal.
+Description.1049=«начки: 16x16.\nЎрифт (Tahoma):\n\tфайлы Ч\t\t8, полужирный;\n\tглавное окно Ч\t9, полужирный;\n\tдиалоги Ч\t8, нормальный.
+Author=ApceH Hypocrite
+Created=2011-08-30
+Modified=2012-05-29
+
+[Im||AllResolutions]
+FontSize=8
+FontWeight=700
+FontName=Tahoma
+FontCharset=204
+
+FontSizeWindow=9
+FontWeightWindow=700
+FontNameWindow=Tahoma
+FontCharsetWindow=204
+
+FontSizeDialog=8
+FontNameDialog=Tahoma
+FontCharsetDialog=204
+
+Iconsize32=16
+
